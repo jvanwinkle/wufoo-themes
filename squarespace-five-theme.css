@@ -1,0 +1,16 @@
+.wufoo {
+	font-size: 14px !important;
+}
+
+.wufoo .section h3 {
+	color: red;
+}
+
+label {   
+	color:blue;
+	font-family: "proxima-nova";
+  font-size: 16px;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: .02em;
+}
